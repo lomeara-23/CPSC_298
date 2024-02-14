@@ -1,3 +1,5 @@
+// Original Code
+
 interface Email {
   value: string; // Enforce email format validation
 }
